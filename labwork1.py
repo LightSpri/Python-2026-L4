@@ -94,4 +94,4 @@ def p12():
             else:
                 print(" ", end="")
         print()
-p12()
+        
